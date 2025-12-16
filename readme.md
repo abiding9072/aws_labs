@@ -15,7 +15,7 @@ This collection captures my progression through AWS services and architecture pa
 
 ## Approach
 
-The labs progress from foundational services to more complex architectural patterns, with each implementation building on concepts from previous work. Both success and failure cases are documented to capture the full learning experience.
+The labs are hands-on practice for me to learn complex architectural patterns. In addition, I have tried to incorporate my already extensive homelab to enhance the cloud infra scenarios I could practice, such as a Site-to-Site VPN connection with my PfSense home firewall.
 
 ## Technologies
 
